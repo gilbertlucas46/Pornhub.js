@@ -1,6 +1,5 @@
 .DS_Store
 node_modules
-dist
 tmp_release
 
 # local env files
